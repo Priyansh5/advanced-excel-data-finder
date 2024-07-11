@@ -13,8 +13,8 @@ Advanced Excel Data Finder is a Python application using Tkinter for searching t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/excel-data-finder.git
-   cd excel-data-finder
+   git clone https://github.com/Priyansh5/advanced-excel-data-finder.git
+   cd advanced-excel-data-finder
 ### Install dependencies:
 Ensure you have Python installed. Install required packages using pip:
 pip install pandas openpyxl
