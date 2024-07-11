@@ -21,15 +21,15 @@ pip install pandas openpyxl
 Run the application:
 python "Advanced Excel Data Finder.py"
 
-<h1><b>Usage</b></h1>
--Select Files:
--Click the "Select Files" button and choose the Excel files you want to search.
--Enter Search Term:
--Enter the term you want to search for in the "Search term" field.
-<b>Set Options:</b>
--Check "Case sensitive" if you want the search to be case-sensitive.
--Check "Whole word only" if you want to match whole words only.
--Choose to search in all columns or specific columns (comma-separated).
+## Usage
+ Select Files:
+- Click the "Select Files" button and choose the Excel files you want to search.
+ Enter Search Term:
+- Enter the term you want to search for in the "Search term" field.
+## Set Options:
+- Check "Case sensitive" if you want the search to be case-sensitive.
+- Check "Whole word only" if you want to match whole words only.
+- Choose to search in all columns or specific columns (comma-separated).
 <b>Search:</b>
 Click the "Search" button to start searching through the selected files. The results will be displayed in the table below.
 
